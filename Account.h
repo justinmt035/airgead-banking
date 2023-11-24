@@ -1,7 +1,6 @@
 //Justin M Taylor
 //Professor Chan
 //CS-210 Project 2
-//6-5-2022
 
 #pragma once
 #ifndef ACCOUNT_H
